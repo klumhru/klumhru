@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klumhru
-- 👀 I’m interested in Computer Games
-- 🌱 I’m currently learning Firebase
+- 👀 I make Computer Games for a living
+- 🌱 I also make Computer Games for fun!
 - 📫 How to reach me
   - https://linkedin.com/in/hognigylfason/
   - https://twitter.com/@klumhru
